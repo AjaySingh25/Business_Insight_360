@@ -4,7 +4,8 @@
 - [Overview](#overview)
 - [Project Description](#project-description)
 - [Methodology](#methodology)
-- [Files and Resources](#files-and-resources)
+- [Screenshots](#screenshots)
+- [Live Dashboard](#live-dashboard)
 - [Conclusion](#conclusion)
 - [Contact Information](#contact-information)
 
@@ -12,58 +13,65 @@
 
 ## 📌 Overview
 
-The **Business Insights 360** Project focuses on delivering a comprehensive, data-driven analysis of business performance across key domains. It helps stakeholders make informed decisions by identifying trends, inefficiencies, and growth opportunities through visual and statistical insights.
+**Business Insights 360** is a data-driven Power BI project designed to provide an integrated view of business performance across various departments, including Finance, Sales, Marketing, and Supply Chain. It empowers leadership to identify trends, analyze KPIs, and drive smarter decisions.
 
 ---
 
 ## 📈 Project Description
 
-This project offers a 360-degree perspective on various operational aspects—**Finance**, **Sales**, **Marketing**, and **Supply Chain**—through detailed analytics and visualizations.
+This project delivers a consolidated, interactive dashboard tailored for various business functions:
 
-### 🎯 Key Objectives:
-- Analyze historical data to monitor business performance.
-- Understand customer behavior and segmentation patterns.
-- Evaluate the effectiveness of marketing strategies.
-- Generate actionable insights for smarter decision-making.
-
----
-
-## 🔍 Methodology
-
-1. **Data Collection**: Gathered structured data from various departments.
-2. **Data Cleaning**: Treated missing values, outliers, and inconsistencies.
-3. **Exploratory Data Analysis (EDA)**: Identified initial trends and performance patterns.
-4. **Data Modeling**: Applied statistical and BI techniques to extract insights.
-5. **Visualization**: Created clear and concise visual dashboards using Power BI and Excel.
-6. **Insight Generation**: Derived correlations and identified gaps to support business strategy.
+- **Finance View** – View P&L statements by customer/product/country over time.
+- **Sales View** – Analyze performance by Net Sales, Gross Margin, etc.
+- **Marketing View** – Track product growth and profitability.
+- **Supply Chain View** – Forecast accuracy and error tracking.
+- **Executive View** – A top-level summary for business leaders.
 
 ---
 
-## 📁 Files and Resources
+## 🧪 Methodology
 
-- 📊 [**Power BI Dashboard (.pbix file)**](./Business_insight.pbix): Downloadable project file.
-- 🌐 [**Live Power BI Dashboard (Hosted)**](https://app.powerbi.com/view?r=eyJrIjoiMzQxZWViODgtYjk2NS00YmYzLWEzOGMtOGYwMTZkZjE4ODIwIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&pageName=cab5f8619d418cebc0d2): View the dashboard live online.
+1. **Data Collection** from multiple departments and sources.
+2. **Data Cleaning** to ensure consistency, accuracy, and completeness.
+3. **Exploratory Data Analysis (EDA)** to spot trends and relationships.
+4. **Data Modeling** using Power BI’s data model view.
+5. **Dashboard Design** using best practices in layout and UX.
+6. **Insights Generation** using DAX and KPI metrics.
+
+---
+
+## 📷 Screenshots
+
+### 🧭 Dashboard Overview
+![Dashboard Screenshot](./BI%20360%20ss.png)
+
+### 🧩 Data Model View
+![Data Model Screenshot](./data%20model%20ss.png)
+
+---
+
+## 🌐 Live Dashboard
+
+👉 [**View Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzQxZWViODgtYjk2NS00YmYzLWEzOGMtOGYwMTZkZjE4ODIwIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&pageName=cab5f8619d418cebc0d2)
 
 ---
 
 ## 📌 Conclusion
 
-The **Business Insights 360** Project consolidates essential data into a single framework, helping organizations:
-- Identify their strengths and weaknesses
-- Understand cross-functional performance
-- Make well-informed strategic decisions
-
-This holistic view empowers business leaders to drive growth and efficiency using data-backed strategies.
+By centralizing business data into one visual platform, the **Business Insights 360** dashboard enables:
+- Cross-functional performance visibility  
+- Data-backed strategic planning  
+- Improved stakeholder communication  
 
 ---
 
 ## 📬 Contact Information
 
-For questions, feedback, or collaboration opportunities:
 **Ajay Singh Rawat**  
-📧 Email: *your-email@example.com*  
-🔗 LinkedIn: *https://www.linkedin.com/in/your-profile*
+📧 Email: *ajaysinraw20@gmail.com*  
+🔗 LinkedIn: *www.linkedin.com/in/ajay20*
 
 ---
 
-> 💡 *Explore the live dashboard or download the Power BI file using the links above.*
+> 💡 *This project is built entirely in Power BI, combining technical precision with business intelligence.*
+
